@@ -1,0 +1,11 @@
+Transaction_ID,Date,Store_ID,Product_Category,Product_Name,Quantity_Sold,Unit_Price,Total_Sale,Customer_ID,Payment_Method,Region,Discount_Applied,Store_Size,Employee_ID,Is_Online
+T0001,2024-04-12,S003,Clothing,Lamp,3,37.2,111.60000000000001,C014,Credit Card,South,0.02,Large,E005,False
+T0002,2024-12-14,S003,Home Goods,T-Shirt,7,474.7,3322.9,C005,Cash,North,0.3,Large,E003,True
+T0003,2024-09-27,S004,Home Goods,Jeans,4,482.99,1931.96,nan,Online,West,,Medium,E001,False
+T0004,2024-04-16,S001,Clothing,Smartphone,9,405.16,3646.44,C020,Credit Card,West,0.06,Small,E005,False
+T0005,2024-03-12,S004,Clothing,Lamp,3,155.78,467.34000000000003,nan,Online,West,,Large,E010,False
+T0006,2024-07-07,S004,Clothing,Laptop,5,53.35,266.75,nan,Credit Card,North,0.24,Medium,E007,False
+T0007,2024-01-21,S004,Home Goods,Laptop,3,343.7,1031.1,C015,Cash,North,0.21,Large,E007,True
+T0008,2024-04-12,S003,Home Goods,Milk,7,222.88,1560.1599999999999,nan,Debit Card,North,0.22,Large,E009,False
+T0009,2024-05-01,S002,Electronics,Milk,5,,,C003,Credit Card,East,0.23,Small,E010,False
+T0010,2024-08-02,S001,Electronics,Cereal,9,,,C005,Online,North,0.02,Large,E010,True
